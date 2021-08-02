@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/basicreact/static/js/main.4c47981b.chunk.js",
+    "main.js.map": "/basicreact/static/js/main.4c47981b.chunk.js.map",
+    "runtime-main.js": "/basicreact/static/js/runtime-main.7bdf0596.js",
+    "runtime-main.js.map": "/basicreact/static/js/runtime-main.7bdf0596.js.map",
+    "static/js/2.579dba29.chunk.js": "/basicreact/static/js/2.579dba29.chunk.js",
+    "static/js/2.579dba29.chunk.js.map": "/basicreact/static/js/2.579dba29.chunk.js.map",
+    "index.html": "/basicreact/index.html",
+    "static/js/2.579dba29.chunk.js.LICENSE.txt": "/basicreact/static/js/2.579dba29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bdf0596.js",
+    "static/js/2.579dba29.chunk.js",
+    "static/js/main.4c47981b.chunk.js"
+  ]
+}
